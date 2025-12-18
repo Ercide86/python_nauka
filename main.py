@@ -17,3 +17,4 @@ user_input_number = int(user_input)
 calculated_value = days_to_units(int(user_input_number))
 print(calculated_value)
 
+print("potatoes are smiling")
